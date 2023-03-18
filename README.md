@@ -1,2 +1,2 @@
 # DocDevOps.
-Documentação para iniciantes
+Documentação para iniciantes em Docker, kubernetes, e teconologia complementares, tais como ArgoCD CI/CD, Jenkins, Ansible, Terraform, etc..
